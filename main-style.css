@@ -229,7 +229,7 @@
   .hSvIAK > .control-container {
     width: 100%;
   }
-  @media only screen and (max-width: 024px) {
+  @media only screen and (max-width: 1024px) {
     .hSvIAK {
       width: 100%;
       -webkit-flex-direction: column;
@@ -291,7 +291,7 @@
     -ms-flex-item-align: center;
     align-self: center;
     width: 100%;
-    max-width: 370px;
+    /*max-width: 370px;*/
   }
   .jIMaML > .control-container {
     width: 100%;
